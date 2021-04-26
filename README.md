@@ -28,7 +28,7 @@ First, We imported all the User, Role, Week, Game Models from Node.js and conver
 
 This project is divided into two main apps: [backend](backend) and [frontend](frontend). They must be run separately but at the same time. First clone the repository using:
 ```
-git clone https://github.com/lorenzorota/se-03-team-32.git
+git clone https://github.com/ishworgiri1999/se-03.git
 ```
 
 For full documentation on how to setup the project follow the links below:
